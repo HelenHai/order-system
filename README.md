@@ -3,7 +3,7 @@
 ## 项目简介
 采用vue-router+axios+elementUI+webpack 实现的外卖订单系统（前端）
 
-这个demo中没有加入后端模板，直接用axios从远程服务器获取商品数据
+这个demo中没有服务端，直接用axios从远程服务器获取商品数据
 
 ## 功能实现
 1. 商品的增删改
